@@ -1,6 +1,6 @@
 ---
 name: toan-single-cell-analysis-skill
-description: Use when starting a new single-cell or omics analysis project (scRNA-seq, scATAC, CITE-seq, spatial), resuming an existing analysis (read its docs/ first), or when a script, notebook, or agent is about to touch raw data files (h5ad, h5, matrix.mtx, csv/tsv metadata). Keywords: scanpy, anndata, uv, Python 3.12 environment setup, raw data, QC.
+description: "Use when starting a new single-cell or omics analysis project (scRNA-seq, scATAC, CITE-seq, spatial), resuming an existing analysis (read its docs/ first), or when a script, notebook, or agent is about to touch raw data files (h5ad, h5, matrix.mtx, csv/tsv metadata). Keywords: scanpy, anndata, uv, Python 3.12 environment setup, raw data, QC."
 ---
 
 # Single-Cell Analysis Framework
