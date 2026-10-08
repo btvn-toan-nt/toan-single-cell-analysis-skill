@@ -12,7 +12,7 @@ A skill that establishes the framework for every new single-cell analysis projec
 ## Install
 
 ```sh
-npx skills add <github-username>/toan-single-cell-analysis-skill
+npx skills add btvn-toan-nt/toan-single-cell-analysis-skill
 ```
 
-[![skills.sh](https://skills.sh/b/<github-username>/toan-single-cell-analysis-skill)](https://skills.sh/<github-username>/toan-single-cell-analysis-skill)
+[![skills.sh](https://skills.sh/b/btvn-toan-nt/toan-single-cell-analysis-skill)](https://skills.sh/btvn-toan-nt/toan-single-cell-analysis-skill)
